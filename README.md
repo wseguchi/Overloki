@@ -9,8 +9,8 @@ Thanks for checking out my front-end project.<br>
 
 ## Overview
 
-This is a basic tree-link webpage built with HTML5, CSS3 and Bootstrap 4.<br>
-_Esta é uma página tree-link básica, construída com HTML5, CSS3 and Bootstrap 4._
+This is a basic linktree webpage built with HTML5, CSS3 and Bootstrap 4.<br>
+_Esta é uma página linktree básica, construída com HTML5, CSS3 and Bootstrap 4._
 
 ## Links
 
