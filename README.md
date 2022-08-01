@@ -14,7 +14,7 @@ _Esta é uma página linktree básica, construída com HTML5, CSS3 and Bootstrap
 
 ## Links
 
-- Webpage URL: [overloki.com](https://www.overloki.com/)
+- Webpage URL: [overloki.com](http://www.overloki.com/)
 - Github Repository: [https://github.com/wseguchi/band-homepage](https://github.com/wseguchi/band-homepage)
 
 ## Author
